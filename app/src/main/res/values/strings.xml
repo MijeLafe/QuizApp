@@ -1,0 +1,122 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Title for the application. -->
+    <string name="app_name">English Quiz</string>
+    <!-- A welcome note to the user -->
+    <string name="header">Hone your English skills!</string>
+    <!-- Instruction to the user -->
+    <string name="header2">Answer the following questions to test your IQ</string>
+    <!-- Instruction about the user's personal details -->
+    <string name="details">Kindly fill in your personal details below</string>
+    <!-- Hint text displayed in the empty field for the user's name -->
+    <string name="name">Name</string>
+    <!-- Hint text displayed in the empty field for the user's email -->
+    <string name="email">Email Address</string>
+    <!-- Hint text displayed in the empty field for the user's answer -->
+    <string name="answer">Answer</string>
+    <!-- The name of the button to be clicked when the user has answered all the questions -->
+    <string name="submit">SUBMIT</string>
+    <!-- The name of the button to be clicked when the user wants the app to start all over -->
+    <string name="reset">RESET</string>
+    <!-- A switch which can be turned on if the user wants the result by mail-->
+    <string name="switch_msg">Send result by email</string>
+    <!-- An instruction to the user on how to go about answering the first three questions -->
+
+    <string name="first_instruction">Each of the following idioms is followed by four (4) meanings, only one (1) is correct. Select the correct meaning. </string>
+    <!-- A text field that displays the first question -->
+    <string name="question_one">1.  Out of the wood:</string>
+    <!--  Radio buttons that display the four options for the first question -->
+    <string name="option_one_a">Out of the forest</string>
+    <string name="option_one_b">In an unhealthy state of mind</string>
+    <string name="option_one_c">Out of the society of good persons</string>
+    <string name="option_one_d">Free from danger or difficulty</string>
+    <!-- A text field that displays the second question -->
+    <string name="question_two">2.  Lion\'s share:</string>
+    <!--  Radio buttons that display the four options for the second question -->
+    <string name="option_two_a">Stomach of a lion</string>
+    <string name="option_two_b">Major Part</string>
+    <string name="option_two_c">Food of a lion</string>
+    <string name="option_two_d">Prey</string>
+    <!-- A text field that displays the third question -->
+    <string name="question_three">3.    An axe to grind:</string>
+    <!--  Radio buttons that display the four options for the third question -->
+    <string name="option_three_a">To put an axe in the enemy\'s territory</string>
+    <string name="option_three_b">Not to have any selfish motive</string>
+    <string name="option_three_c">To have a selfish motive</string>
+    <string name="option_three_d">To put an axe in the ground</string>
+
+    <!-- An instruction to the user on how to go about answering the next two questions -->
+    <string name="second_instruction">Each of the following idioms has a missing term, fill in the blank space</string>
+    <!-- A text field that displays the fourth question -->
+    <string name="question_four">4. Once in a ------ moon</string>
+    <!--  A string that contains the correct answer to question 4 -->
+    <string name="question_four_correct_ans">blue</string>
+    <!-- A text field that displays the fifth question -->
+    <string name="question_five">5. Sick as a ------</string>
+    <!--  A string that contains the correct answer to question 5 -->
+    <string name="question_five_correct_ans">dog</string>
+
+    <!-- An instruction to the user on how to go about answering the last five questions -->
+    <string name="third_instruction">Each of the questions below consists of a word boldly written and followed by Five (5) options. Choose ONE or MORE of these options which is nearly similar in meaning to the boldly written word.</string>
+    <!-- A text field that displays the sixth question -->
+    <string name="question_six">6.  HIRSUTE</string>
+    <!-- Check Boxes that display the five options for the sixth question -->
+    <string name="option_six_a">damp</string>
+    <string name="option_six_b">bearded</string>
+    <string name="option_six_c">formerly</string>
+    <string name="option_six_d">furry</string>
+    <string name="option_six_e">hairless</string>
+    <!-- A text field that displays the seventh question -->
+    <string name="question_seven">7.  ADVERSITY</string>
+    <!-- Check Boxes that display the five options for the seventh question -->
+    <string name="option_seven_a">opponent</string>
+    <string name="option_seven_b">hardship</string>
+    <string name="option_seven_c">serendipity</string>
+    <string name="option_seven_d">agency</string>
+    <string name="option_seven_e">misfortune</string>
+    <!-- A text field that displays the eighth question -->
+    <string name="question_eight">8.  GARRULOUS</string>
+    <!-- Check Boxes that display the five options for the eighth question -->
+    <string name="option_eight_a">laconic</string>
+    <string name="option_eight_b">strangling</string>
+    <string name="option_eight_c">ecstatic</string>
+    <string name="option_eight_d">chatty</string>
+    <string name="option_eight_e">reticent</string>
+    <!-- A text field that displays the ninth question -->
+    <string name="question_nine">9.  PHLEGMATIC</string>
+    <!-- Check Boxes that display the five options for the ninth question -->
+    <string name="option_nine_a">stolid</string>
+    <string name="option_nine_b">emotionless</string>
+    <string name="option_nine_c">vehement</string>
+    <string name="option_nine_d">fervid</string>
+    <string name="option_nine_e">apathetic</string>
+    <!-- A text field that displays the tenth question -->
+    <string name="question_ten">10.  PERSIFLAGE</string>
+    <!-- Check Boxes that display the five options for the tenth question -->
+    <string name="option_ten_a">banter</string>
+    <string name="option_ten_b">oppression</string>
+    <string name="option_ten_c">sarcasm</string>
+    <string name="option_ten_d">bigotry</string>
+    <string name="option_ten_e">simile</string>
+
+    <!-- Toast message strings -->
+    <string name="fabulous">Fabulous and Great Grammarian!</string>
+    <string name="good_job">Good Job, You can do better!</string>
+    <string name="try_again">Study harder and try again!</string>
+    <string name="name_err">Please fill in your name correctly!</string>
+    <string name="email_err">Please fill in your email correctly!</string>
+    <string name="quest_one_err">Please answer question 1!</string>
+    <string name="quest_two_err">Please answer question 2!</string>
+    <string name="quest_three_err">Please answer question 3!</string>
+    <string name="quest_four_err">Please answer question 4!</string>
+    <string name="quest_five_err">Please answer question 5!</string>
+    <string name="quest_six_err">Please answer question 6!</string>
+    <string name="quest_seven_err">Please answer question 7!</string>
+    <string name="quest_eight_err">Please answer question 8!</string>
+    <string name="quest_nine_err">Please answer question 9!</string>
+    <string name="quest_ten_err">Please answer question 10!</string>
+    <string name="result">You scored <xliff:g id="score" example="2">%d</xliff:g> out of 10</string>
+
+    <!-- A string to be displayed as the subject of the email -->
+    <string name="result_email_subject">Quiz result for <xliff:g id="name" example="Rita">%s</xliff:g></string>
+
+</resources>
